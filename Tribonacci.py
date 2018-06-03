@@ -9,4 +9,4 @@ def tribonacci(x,y):
 x=[0,1,1]
 y=10
 tribonacci(x,y)
-print('github')
+print('githu')
